@@ -9,7 +9,7 @@ main{
 }
 
 .side{
-    background-image: url('/Assets/mont.jpg.jpg');
+    background-image: url("/Assets/mont.jpg.jpg");
     background-position: 40%;
     height: 100vh;
     width:30%;
