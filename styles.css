@@ -26,7 +26,7 @@ main{
 .right{
     margin: 0;
     padding: 0;
-    background-image: url('/Assets/leaf.jpg');
+    background-image: url("./Assets/leaf.jpg");
     height: 100vh;
     width:70%;
     box-shadow: 3px -2px 21px 0px rgba(127,255,212,0.77);
@@ -119,7 +119,7 @@ padding: 7%;
        }
     .inputarea input{
         height: auto;
-        padding: 1%;
+        padding: 2%;
     }
     
   }
@@ -127,7 +127,7 @@ padding: 7%;
     
     .inputarea input{
         height: 5%;
-        padding: 1%;
+        padding: 2%;
         width: 50%;
     }
     
