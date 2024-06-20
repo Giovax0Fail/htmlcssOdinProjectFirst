@@ -26,7 +26,7 @@ main{
 .right{
     margin: 0;
     padding: 0;
-    background-image: url(/Assets/leaf.jpg);
+    background-image: url('/Assets/leaf.jpg');
     height: 100vh;
     width:70%;
     box-shadow: 3px -2px 21px 0px rgba(127,255,212,0.77);
