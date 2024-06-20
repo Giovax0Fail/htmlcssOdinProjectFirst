@@ -110,6 +110,7 @@ margin: 3% 0;
 padding: 7%;
 }
 
+
 @media only screen and (max-width: 693px) {
     
     .inputarea input{
@@ -119,15 +120,15 @@ padding: 7%;
        }
     .inputarea input{
         height: auto;
-        padding: 2%;
+        padding: 4%;
     }
     
   }
   @media only screen and (max-width: 591px) {
     
     .inputarea input{
-        height: 5%;
-        padding: 2%;
+        height: auto;
+        padding: 10%;
         width: 50%;
     }
     
